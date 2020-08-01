@@ -31,7 +31,7 @@ $(function(){
   });
 });
 $(function(){
-  var icon = $('.fas');
+  var icon = $('.Icon');
   
   $(".navbar-toggler").click(function(){
    icon.toggleClass('fa-times');
